@@ -13,8 +13,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
 ![Ankan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=radical)  
 
