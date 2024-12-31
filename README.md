@@ -21,7 +21,7 @@
 
 ### 📫 Let's Connect  
 - 💼 [LinkedIn](www.linkedin.com/in/ankanbiswas-in)  
-- 📧 Email: ankanbiswas@example.com  
+- 📧 Email: ankanb560@gmail.com  
 
 ---
 
