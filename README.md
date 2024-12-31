@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1 style="text-decoration: none;">👋 Hi, I'm <strong>Ankan Biswas</strong>!</h1>
-<h2 style="text-decoration: none;">🚀 Full Stack Developer | MERN Stack Enthusiast</h2>
+# 👋 Hi, I'm **Ankan Biswas**!
+## 🚀 Full Stack Developer | MERN Stack Enthusiast
 
 </div>
  
@@ -22,7 +22,7 @@
 
 <!-- GitHub Stats & Top Languages in the same line -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=radical" alt="Ankan's GitHub Stats" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=radical" alt="Ankan's GitHub Stats" style="display:inline-block; margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=radical" alt="Top Languages" style="display:inline-block;" />
 </p>
 
