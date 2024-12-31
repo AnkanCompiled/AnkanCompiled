@@ -9,7 +9,7 @@
   <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" style="width:40px;" alt="LinkedIn" />
 </a>  
 <a href="mailto:ankanb560@gmail.com">
-  <img src="https://i.pinimg.com/736x/35/a8/71/35a8716f9c3c87a261f6382e9c628799.jpg" style="width:40px" alt="Gmail" />
+  <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="width:40px" alt="Gmail" />
 </a>
 <a href="https://www.hackerrank.com/profile/ankanb560">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" style="width:40px" alt="HackerRank" />
