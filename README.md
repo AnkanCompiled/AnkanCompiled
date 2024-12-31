@@ -2,6 +2,15 @@
 
 # 👋 Hi, I'm **Ankan Biswas**!  
 ## 🚀 Full Stack Developer | MERN Stack Enthusiast  
+
+<a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&logoWidth=30" alt="LinkedIn" />
+</a>  
+<a href="mailto:ankanb560@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat&logoWidth=30" alt="Gmail" />
+</a>
+
+</div>
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AnkanCompiled&theme=radical)
 
@@ -21,15 +30,6 @@
 </p>
 
 ---
-
-<a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&logoWidth=30" alt="LinkedIn" />
-</a>  
-<a href="mailto:ankanb560@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat&logoWidth=30" alt="Gmail" />
-</a>
-
-</div>
 
 
 <!--
