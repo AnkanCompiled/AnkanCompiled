@@ -1,25 +1,30 @@
-# 👋 Hi, I'm Ankan Biswas!  
+<div align="center">
 
-## 🚀 Full Stack Developer | MERN Stack Enthusiast
+# 👋 Hi, I'm **Ankan Biswas**!  
+
+## 🚀 Full Stack Developer | MERN Stack Enthusiast  
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AnkanCompiled&theme=radical)
 
+### 🛠 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)
 
 ![Ankan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=radical)  
-![Ankan's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=AnkanCompiled&theme=radical)
 
 ---
 
 ### 📫 Let's Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/ankanbiswas-in)  
-- 📧 Email: ankanb560@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ankanbiswas-in)  
+📧 Email: ankanb560@gmail.com  
 
----
-![Visitor Count](https://komarev.com/ghpvc/?username=AnkanCompiled&color=blue&style=flat-square)
+</div>
+
 
 <!--
 **AnkanCompiled/AnkanCompiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
