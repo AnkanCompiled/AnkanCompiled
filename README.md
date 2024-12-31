@@ -1,46 +1,28 @@
 <div align="center">
-
-#  **Ankan Biswas**
  
-<a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
-  <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" style="width:40px;" alt="LinkedIn" />
-</a>  
-<a href="mailto:ankanb560@gmail.com">
-  <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" style="width:40px" alt="Gmail" />
-</a>
-<a href="https://www.hackerrank.com/profile/ankanb560">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" style="width:40px" alt="HackerRank" />
-</a>
+#  **Ankan Biswas**
 
 ---
-  
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AnkanCompiled&theme=radical)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![React](https://img.shields.io/badge/Framework-React-blue) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen) ![MySQL](https://img.shields.io/badge/Database-MySQL-blue) ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)
-
 ---
 
-<!-- GitHub Stats & Top Languages in the same line -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=radical" alt="Ankan's GitHub Stats" style="display:inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=radical" alt="Top Languages" style="display:inline-block;" />
+<p style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=radical" alt="Ankan's GitHub Stats" style="width: 30%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=radical" alt="Top Languages" style="width: 30%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkanCompiled&theme=radical" alt="GitHub Streak" style="width: 30%;"/>
 </p>
 
 ---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankanbiswas-in" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="60" alt="LinkedIn" />
+  </a>  
+  <a href="mailto:ankanb560@gmail.com" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="60" alt="Gmail" />
+  </a>
+</p>
+
 </div>
-
-<!--
-**AnkanCompiled/AnkanCompiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
