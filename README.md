@@ -7,8 +7,9 @@
 
 ### 🔥 Projects  
 
-- **[Group Chat App](https://github.com/AnkanCompiled/group-chat-app):** A real-time chatting platform built with Node.js and MongoDB.  
-- **[Inventory Manager](https://github.com/AnkanCompiled/inventory-manager):** A dynamic inventory management system.  
+- **[Blogging Website](https://github.com/AnkanCompiled/Blog-Website.git):** A feature-rich blogging platform that allows users to create, share, and interact with blog posts.
+- **[Group Chat App](https://github.com/AnkanCompiled/GroupMessage.git):** A real-time chatting platform built with Node.js and MongoDB.  
+- **[Inventory Manager](https://github.com/AnkanCompiled/Inventory-Management-System):** A dynamic inventory management system.  
 
 ---
 
