@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center">
+<p style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/ankanbiswas-in" target="blank">
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="60" alt="LinkedIn" />
   </a>  
