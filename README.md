@@ -1,9 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Ankan Biswas**!
-## 🚀 Full Stack Developer | MERN Stack Enthusiast
-
-</div>
+#  **Ankan Biswas**
  
 <a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
   <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" style="width:40px;" alt="LinkedIn" />
@@ -31,6 +28,7 @@
 
 ---
 
+</div>
 
 <!--
 **AnkanCompiled/AnkanCompiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
