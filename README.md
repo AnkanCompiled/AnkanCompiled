@@ -1,16 +1,18 @@
+<div align="center">
+
 # 👋 Hi, I'm **Ankan Biswas**!  
 ## 🚀 Full Stack Developer | MERN Stack Enthusiast  
-
-<div align="center">
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AnkanCompiled&theme=radical)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
-![React](https://img.shields.io/badge/Framework-React-blue)  
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)  
-![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)
+<p>
+  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
+  ![React](https://img.shields.io/badge/Framework-React-blue)  
+  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)  
+  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  
+  ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)  
+  ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)
+</p>
 
 <!-- GitHub Stats & Top Languages in the same line -->
 <p>
@@ -21,10 +23,10 @@
 ---
 
 <a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&logoWidth=30" alt="LinkedIn" />
 </a>  
 <a href="mailto:ankanb560@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat&logoWidth=30" alt="Gmail" />
 </a>
 
 </div>
