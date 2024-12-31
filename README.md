@@ -1,27 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm **Ankan Biswas**!  
-## 🚀 Full Stack Developer | MERN Stack Enthusiast  
-
-<a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&logoWidth=30" alt="LinkedIn" />
-</a>  
-<a href="mailto:ankanb560@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat&logoWidth=30" alt="Gmail" />
-</a>
+<h1 style="text-decoration: none;">👋 Hi, I'm <strong>Ankan Biswas</strong>!</h1>
+<h2 style="text-decoration: none;">🚀 Full Stack Developer | MERN Stack Enthusiast</h2>
 
 </div>
+ 
+<a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&logoWidth=60" alt="LinkedIn" />
+</a>  
+<a href="mailto:ankanb560@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat&logoWidth=60" alt="Gmail" />
+</a>
+
+---
   
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AnkanCompiled&theme=radical)
 
-<p>
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
-  ![React](https://img.shields.io/badge/Framework-React-blue)  
-  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)  
-  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  
-  ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)  
-  ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)
-</p>
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![React](https://img.shields.io/badge/Framework-React-blue) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen) ![MySQL](https://img.shields.io/badge/Database-MySQL-blue) ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)
+
+---
 
 <!-- GitHub Stats & Top Languages in the same line -->
 <p>
