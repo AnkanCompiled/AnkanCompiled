@@ -10,7 +10,7 @@
 
 ![Ankan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=radical)  
-![Ankan's Coding Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AnkanCompiled&theme=radical)
+![Ankan's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=AnkanCompiled&theme=radical)
 
 ---
 
