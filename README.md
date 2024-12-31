@@ -6,10 +6,10 @@
 </div>
  
 <a href="https://www.linkedin.com/in/ankanbiswas-in" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:30px; margin-right: 10px;" alt="LinkedIn" />
 </a>  
 <a href="mailto:ankanb560@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat&logoWidth=30" alt="Gmail" />
+  <img src="https://i.pinimg.com/736x/35/a8/71/35a8716f9c3c87a261f6382e9c628799.jpg" style="width:30px" alt="Gmail" />
 </a>
 
 ---
