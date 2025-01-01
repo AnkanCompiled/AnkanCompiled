@@ -10,7 +10,7 @@
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=dark" alt="Ankan's GitHub Stats" style="width: 50%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=dark" alt="Top Languages" style="width: 40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=dark" alt="Top Languages" style="width: 38%;"/>
 </p>
 
 ---
