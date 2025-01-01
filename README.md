@@ -9,9 +9,8 @@
 ---
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=dark" alt="Ankan's GitHub Stats" style="width: 28%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=dark" alt="Top Languages" style="width: 28%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkanCompiled&theme=dark" alt="GitHub Streak" style="width: 28%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AnkanCompiled&show_icons=true&theme=dark" alt="Ankan's GitHub Stats" style="width: 50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanCompiled&layout=compact&theme=dark" alt="Top Languages" style="width: 40%;"/>
 </p>
 
 ---
